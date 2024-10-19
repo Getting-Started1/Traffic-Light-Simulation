@@ -1,6 +1,7 @@
 # LED Traffic Light Simulation
 
 This project simulates a traffic light system with a pedestrian crossing button using an ESP32. 
+Fun nailed it 
 
 ## Components Required
 - ESP32 Development Board
